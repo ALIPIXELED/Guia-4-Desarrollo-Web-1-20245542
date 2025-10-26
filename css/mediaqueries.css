@@ -1,0 +1,10 @@
+/* Estilo para telefonos */
+@media screen and (max-width: 480px) {
+    html {
+        font-size: 14px;
+    }
+
+    body {
+        background-color: #03a9f4;
+    }
+}
